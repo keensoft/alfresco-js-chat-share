@@ -1,0 +1,6 @@
+<component>
+    <region-id>additional-footer</region-id>
+    <source-id>global</source-id>
+    <scope>global</scope>
+    <uri>/es/keensoft/components/chat-footer</uri>
+</component>

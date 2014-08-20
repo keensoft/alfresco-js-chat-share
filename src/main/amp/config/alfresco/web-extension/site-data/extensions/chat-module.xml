@@ -1,0 +1,14 @@
+<extension>
+	<modules>
+		<module>
+			<id>Chat Footer Module</id>
+			<customizations>
+				<customization>
+					<targetPackageRoot>org.alfresco</targetPackageRoot>
+					<sourcePackageRoot>es.keensoft</sourcePackageRoot>
+				</customization>
+			</customizations>
+		</module>
+	</modules>
+</extension>
+
