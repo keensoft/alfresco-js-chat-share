@@ -3,7 +3,7 @@ alfresco-js-chat-share
 
 Simple JavaScript Chat integration for Alfresco Share.
 
-**THIS IS DEAD CODE, IT DOES NOT WORK WITH ALFRESCO 4.2.f**
+# **THIS IS DEAD CODE, IT DOES NOT WORK WITH ALFRESCO 4.2.f or upper**
 
 Tested for ALFRESCO CE 4.2.f
 Supports IE 10+, Chrome, Firefox and Safari
